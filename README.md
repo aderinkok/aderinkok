@@ -1,6 +1,14 @@
 **Google Drive Bağlantısı**
 [Google Drive]( https://drive.google.com/drive/folders/0B-oFuSw1PkbjcnVaZEhoOWVRZ28?resourcekey=0-bj_WTRbBRyzdVOW2ECzUxw&usp=share_link)
 
+Drive Klasörleri
+| Klasör  | Ders                                  |
+|---------|---------------------------------------|
+|  arabirim | Kullanıcı Arabirimi Tasarımı    |
+|  is      | İşletim Sistemleri                      |
+|  iys   | İçerik Yönetim Sistemleri |
+|  staj   | Staj Yönergesi |
+|  vtys   | Veritabanı ve Yönetim Sistemleri |
 <!--
 **aderinkok/aderinkok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
